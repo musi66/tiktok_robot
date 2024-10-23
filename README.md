@@ -20,10 +20,6 @@ tiktok机器人, tiktok逆向, tiktok hook, tiktok脚本 发消息, 拦截消息
 7. 拦截消息
 
 
-# 联系方式
-
-
-
-wx: love111_feifeifei
+# [联系方式,点击查看](https://github.com/musi66/AndroidRobot)
 
 本文仅供学习交流，严禁用于商业用途
